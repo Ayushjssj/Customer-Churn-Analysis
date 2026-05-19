@@ -116,13 +116,13 @@ GROUP BY Churn;
 
 ## Power BI Dashboard
 
-![Power BI Dashboard](https://github.com/Ayushjssj/Sales-Data-Analysis-Dashboard/blob/f5946fdedb383fb6acfc2cacd4552d716f85ae53/output/Screenshot%202026-05-18%20192038.png)
+![Power BI Dashboard](https://github.com/Ayushjssj/Customer-Churn-Analysis/blob/main/output/Screenshot%202026-05-19%20111906.png?raw=true)
 
 ---
 
 ## SQL Analysis Preview
 
-![SQL Analysis](https://github.com/Ayushjssj/Sales-Data-Analysis-Dashboard/blob/main/output/Screenshot%202026-05-18%20192054.png?raw=true)
+![SQL Analysis](https://github.com/Ayushjssj/Customer-Churn-Analysis/blob/main/output/Screenshot%202026-05-19%20111928.png?raw=true)
 
 ---
 
